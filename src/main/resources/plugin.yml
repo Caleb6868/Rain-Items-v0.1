@@ -1,0 +1,7 @@
+name: RainItems
+version: '${project.version}'
+main: me.myllucodes.rainitems.RainItems
+api-version: '1.20'
+commands:
+  rainitems:
+    description: makes it rain items
